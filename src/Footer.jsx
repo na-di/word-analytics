@@ -9,7 +9,7 @@ function Footer() {
           Avneri Digetal Marketing
         </a>
       </small>
-      <small>😁השתדלו תמיד למשמוח!</small>
+      <small>😁השתדלו תמיד לשמוח!</small>
     </footer>
   );
 }
